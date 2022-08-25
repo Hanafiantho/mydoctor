@@ -1,0 +1,10 @@
+export { default as IconArrowBack } from './arrow_back.svg';
+export { default as IconAddPhoto } from './icon_add_photo.svg';
+export { default as IconDeletePhoto } from './icon_delete_photo.svg';
+export { default as IconDoctor } from './icon_doctor.svg';
+export { default as IconDoctorActive } from './icon_doctor_active.svg';
+export { default as IconHospitals } from './icon_hospitals.svg';
+export { default as IconHospitalsActive } from './icon_hospitals_active.svg';
+export { default as IconMessages } from './icon_messages.svg';
+export { default as IconMessagesActive } from './icon_messages_active.svg';
+export { default as IconStar } from './icon_star.svg';
